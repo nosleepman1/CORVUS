@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.env.local
+.corvus_snapshots/
+_reference_claude_code/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
